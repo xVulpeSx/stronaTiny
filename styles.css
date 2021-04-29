@@ -1,0 +1,85 @@
+body{
+    background-color: #C8E0F4
+}
+
+div{
+    padding-top: 3vh;
+}
+
+.title{
+    text-align: center;
+    width: 100vw;
+    padding-top: 5vh;
+    font-size: 250%;
+    font-weight:bold
+}
+
+.subtitle{
+    text-align: center;
+    width: 100vw;
+    padding-top: 1vh;
+    font-size: 170%;
+    font-style: italic;
+}
+
+.section{
+    position:relative;
+    margin: auto;
+    text-align: center;
+    font-size: 160%;
+    font-weight: bold;
+    padding-top: 2vh;
+    color: #031927;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.list{
+    display: table;
+    margin: auto;
+    position: relative;
+    padding-top: 2vh;
+    list-style:square
+}
+
+table{
+    padding-top: 3vh;
+    margin:auto;
+    position: relative;
+    width: 40vw;
+}
+
+th{
+    background: #508AA8;
+}
+
+tr:nth-child(even)
+{
+  background: #508AA8;
+}
+
+tr:nth-child(odd)
+{
+  background: #9DD1F1;
+}
+
+tr:hover{
+    background-color: #BA1200;
+}
+
+td{
+    text-align: center;
+}
+
+img{
+    padding-top: 3vh;
+    display: block;
+    margin:auto;
+    position:relative;
+    width: auto;
+}
+
+.mail{
+    position:relative;
+    margin: auto;
+    text-align: center;
+}
